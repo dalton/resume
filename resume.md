@@ -1,7 +1,7 @@
 Adam Dalton Resumé
 ===============
 
-[Plain Text](https://raw.github.com/dalton/resume/master/resume.md), [PDF](https://raw.github.com/dalton/resume/master/resume.pdf), [HTML](http://dalton.github.com/resume)
+[Plain Text](https://raw.github.com/dalton/resume/master/resume.md), [PDF](https://raw.github.com/dalton/resume/master/resume.pdf), [HTML](http://dalton.github.io/resume)
 
 Education
 ---------
@@ -23,7 +23,7 @@ I am pursuing a doctorate in computer science to advance the state of the art in
 Relevant Publications
 ---------
 
-Carvalho, M., Eskridge, T. C., Bunch, L., Dalton, A., Hoffman, R., Bradshaw, J. M., ... & Shanklin, T. (2013, August). MTC2: A command and control framework for moving target defense and cyber resilience. In _Resilient Control Systems (ISRCS), 2013 6th International Symposium on_ (pp. 175-180). IEEE.
+Carvalho, M., Eskridge, T. C., Bunch, L., Dalton, A., Hoffman, R., Bradshaw, J. M., Feltovich, P., Kidwell, D. & Shanklin, T. (2013, August). MTC2: A command and control framework for moving target defense and cyber resilience. In _Resilient Control Systems (ISRCS), 2013 6th International Symposium on_ (pp. 175-180). IEEE.
 
 Wilks, Y., Galescu, L., Allen, J., & Dalton, A. (2013). Automatic Metaphor Detection using Large-Scale Lexical Resources and Conventional Metaphor Extraction. _Meta4NLP_ 2013, 36.
 
@@ -37,11 +37,11 @@ Research Experience
 
     Research Associate, 2012-Present
 
-    -   <u>Conversation Understanding through Belief Interpretation and Sociolinguistic Modeling (CUBISM)</u>: 
+    -   _Conversation Understanding through Belief Interpretation and Sociolinguistic Modeling (CUBISM)_: 
     Co-author on an awarded proposal for the DARPA DEFT project. Constructed a system that brings together research related to dialogue understanding along participants’ internal mental content, and participants’ social roles and relationships. Managed the integration of research efforts  across three geographically and institutionally distributed sites and the program sponsor.  Led  the design of the application program interface. Selected, installed, configured, and maintained operations infrastructure. 
-    -   <u>Moving Target Defense (Computer Network Security)</u>: 
-    Wrote a framework for generating baseline and attack traffic to evaluate Moving Target Defenses on computer networks. Developed traffic generators for benign and malicious SMTP, HTTP, FTP, IRC, DHCP, and DNS traffic.  Design a network testbed and scenarios for experimentation with different configurations of network attacks and defenses.
-    -   <u>Metaphor Extraction via Analysis of Language</u>: Integrated multiple different human language technology systems, including WordNet, VerbNet, and the Stanford Parser, in order to develop a novel method for detecting conventional metaphors in unstructured text.
+    -   _Moving Target Defense (Computer Network Security)_: 
+    Wrote a framework for generating baseline and attack traffic to evaluate Moving Target Defenses on computer networks. Developed traffic generators for benign and malicious SMTP, HTTP, FTP, IRC, DHCP, and DNS traffic.  Designed network testbed and scenarios for experimentation with different configurations of network attacks and defenses.
+    -   _Metaphor Extraction via Analysis of Language_: Integrated multiple different human language technology systems, including WordNet, VerbNet, and the Stanford Parser, in order to develop a novel method for detecting conventional metaphors in unstructured text.
 
 *   **Institute for Simulation and Training** (Orlando, FL)
 
