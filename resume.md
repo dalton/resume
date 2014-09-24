@@ -6,6 +6,10 @@ Adam Dalton Resumé
 Education
 ---------
 
+*   **University of Florida** (Gainesville, FL)
+
+    PhD in Computer Science, started 2014
+
 *   **University of Central Florida** (Orlando, FL)
 
     M.S. in Modeling and Simulation, August 2006
@@ -37,9 +41,9 @@ Research Experience
 
     Research Associate, 2012-Present
 
-    -   _Conversation Understanding through Belief Interpretation and Sociolinguistic Modeling (CUBISM)_: 
-    Co-author on an awarded proposal for the DARPA DEFT project. Constructed a system that brings together research related to dialogue understanding along participants’ internal mental content, and participants’ social roles and relationships. Managed the integration of research efforts  across three geographically and institutionally distributed sites and the program sponsor.  Led  the design of the application program interface. Selected, installed, configured, and maintained operations infrastructure. 
-    -   _Moving Target Defense (Computer Network Security)_: 
+    -   _Conversation Understanding through Belief Interpretation and Sociolinguistic Modeling (CUBISM)_:
+    Co-author on an awarded proposal for the DARPA DEFT project. Constructed a system that brings together research related to dialogue understanding along participants’ internal mental content, and participants’ social roles and relationships. Managed the integration of research efforts  across three geographically and institutionally distributed sites and the program sponsor.  Led  the design of the application program interface. Selected, installed, configured, and maintained operations infrastructure.
+    -   _Moving Target Defense (Computer Network Security)_:
     Wrote a framework for generating baseline and attack traffic to evaluate Moving Target Defenses on computer networks. Developed traffic generators for benign and malicious SMTP, HTTP, FTP, IRC, DHCP, and DNS traffic.  Designed network testbed and scenarios for experimentation with different configurations of network attacks and defenses.
     -   _Metaphor Extraction via Analysis of Language_: Integrated multiple different human language technology systems, including WordNet, VerbNet, and the Stanford Parser, in order to develop a novel method for detecting conventional metaphors in unstructured text.
 
@@ -57,10 +61,10 @@ Work Experience
 
     Technical Lead - Information Architecture, Launch Control System, 2008 - 2012
 
-    -   Responsible for managing the information that supports ground services during tests, operations, and  launch of space flight hardware. Responsible for leading a team of eight contractors and civil servants in development and test activities 
+    -   Responsible for managing the information that supports ground services during tests, operations, and  launch of space flight hardware. Responsible for leading a team of eight contractors and civil servants in development and test activities
     -	Supervised numerous students on projects
     -   Worked on a multi-Center effort to establish a Space System ontology
-    - 	Designed an adapter to map data stored in a semantic web database to Java classes 
+    - 	Designed an adapter to map data stored in a semantic web database to Java classes
     - 	Introduced RESTful web services to the project in order to reduce complexity of messaging between applications on the project
 
     Lead Developer, Workforce Planning and Information Systems, 2006 - 2008
@@ -84,10 +88,11 @@ Skills and Tools Experience
 
 Awards and Honors
 -----------
+* Travel scholarship for the AAAI 2014 Fall Symposium Series
 * Space Flight Awareness Award (2012)
 * Kennedy Space Center Certificate of Commendation (2011)
 * Group Achievement Award for LCS Information Architecture Trade Study Team (Project Lead, 2011)
-* Multiple Mentor Awards 
+* Multiple Mentor Awards
 
 
 
