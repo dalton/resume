@@ -89,6 +89,7 @@ Skills and Tools Experience
 Awards and Honors
 -----------
 * Travel scholarship for the AAAI 2014 Fall Symposium Series
+* Best Paper Award:  A Human-Agent Teamwork Command and Control Framework for Moving Target Defense (MTC2), CSIIRW, Oak Ridge National Labratory, January 2013
 * Space Flight Awareness Award (2012)
 * Kennedy Space Center Certificate of Commendation (2011)
 * Group Achievement Award for LCS Information Architecture Trade Study Team (Project Lead, 2011)
